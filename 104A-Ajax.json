@@ -1,0 +1,622 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 291,
+          "y": 315,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Ajax介紹<br>",
+          "size": 107,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 531,
+      "y": 334
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 380,
+          "y": 433,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "它究竟是在做甚麼的呢？<br>",
+          "size": 24,
+          "selected": false
+        }
+      ],
+      "z": -3,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 530,
+      "y": 334
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 320,
+          "y": 343,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Ubuntu\">本次社課重點</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 240,
+          "y": 433,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "運用Ajax將Google試算表中的所有圖片資料Get！！<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 747,
+      "y": 187
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 308,
+          "y": 249,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 42,
+          "text": "<div style=\"text-align: center;\"><font face=\"Lato\">.done(function() {...</font>})&nbsp;</div><div style=\"text-align: center;\">.fail(function() {...})&nbsp;</div><div style=\"text-align: center;\">.always(function() {...});</div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 292,
+          "y": 118,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\"><a href=\"http://api.jquery.com/jQuery.ajax/\" target=\"_blank\">jQuery.ajax({...})</a></font>",
+          "selected": false
+        }
+      ],
+      "z": -3,
+      "impScale": 3,
+      "rotateX": 1.57,
+      "rotateY": -1.57,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 748,
+      "y": 187
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 288,
+          "y": 65,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font>這次上課會用到</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 716,
+      "y": 367
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 451,
+          "y": 169,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Ajax<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 367,
+          "y": 337,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font>JavaScript</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 316,
+          "y": 252,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font>Google試算表</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 409,
+          "y": 427,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font>JQuery</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 716,
+      "y": 367,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 204,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>簡單複習JavaScript</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 452,
+          "y": 359,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<div style=\"text-align: center;\"><a href=\"http://nyannyan.space/slide.html\" target=\"_blank\"><font face=\"PressStart2P, cursive\">上課投影片</font></a></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 933,
+      "y": 426
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 250,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Ubuntu, sans-serif\">簡單複習JQuery</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 452,
+          "y": 359,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Ubuntu\"><a href=\"http://static.pastleo.me/nchuit/104A_JS/jquery/#/step-1\" target=\"_blank\">上課投影片</a></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 3,
+      "impScale": 3,
+      "rotateX": 1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 933,
+      "y": 426
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 277,
+          "y": 415,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<a href=\"http://api.jquery.com/jQuery.parseHTML/\"><span style=\"font-family: Ubuntu;\" target=\"_blank\">$.parseHTML(...</span><font face=\"Ubuntu\">)</font></a>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 236,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Ubuntu\">將字串轉為HTML</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 3,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 994,
+      "y": 107
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 332,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Ubuntu\">綁上監聽器</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 995,
+      "y": 264
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 351,
+          "y": 415,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Ubuntu\"><a href=\"http://api.jquery.com/append/\" target=\"_blank\">.append(...)</a></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 328,
+          "y": 356,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<span style=\"font-family: Ubuntu;\">將東西塞進HTML</span><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 995,
+      "y": 264
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 193,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Ubuntu\">今天要實做的東西是....</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 1.57,
+      "rotateY": -0.04,
+      "rotateZ": 1.57,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 288,
+      "y": 345
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 416,
+          "y": 18,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Ubuntu\">圖片牆</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/jVo4FQe.png",
+          "type": "Image",
+          "x": 205,
+          "y": 120,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 440,
+          "y": 492,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Lato\"><a href=\"http://nyannyan.space/JT2htmlJS.html\" target=\"_blank\">杜杰的圖片牆</a></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 288,
+      "y": 345
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 216,
+          "y": 112,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Ubuntu\">先建立Google試算表</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 291,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 45,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Ubuntu;\">存放我們圖片牆</span></div><font face=\"Ubuntu\"><div style=\"text-align: center;\">所有圖片的URL的地方</div></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 267,
+          "y": 436,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 35,
+          "text": "<font face=\"Lato\">可以先借用範例的試算表來運作</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 1.57,
+      "rotateZ": 1.57,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 566,
+      "y": 507
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 192,
+          "y": 343,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Ubuntu\">把圖片牆板型複製過去</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 440,
+          "y": 452,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Lato\"><a href=\"https://nchuit.hackpad.com/11191126-Ajax-GooqXzkRWn1\" target=\"_blank\">範例的程式碼</a></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 538,
+      "y": 210
+    }
+  ],
+  "background": "bg-default",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 291,
+        "y": 315,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "Ajax介紹<br>",
+        "size": 107,
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 531,
+    "y": 334
+  },
+  "fileName": "presentation-unnamed",
+  "overviewX": 641.5,
+  "overviewY": 307
+}
