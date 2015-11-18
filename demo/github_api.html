@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>AJAX</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<img id="avatar_url" src="">
+			<h3 id="login"></h3>
+			<h3 id="company"></h3>
+			<h3 id="location"></h3>
+		</div>
+	</div>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function($) {
+			var github_id = 'jd615645';
+			$.ajax({
+				url: 'https://api.github.com/users/' + github_id,
+				type: 'GET',
+				dataType: 'json',
+			})
+			.done(function(data) {
+				console.log("success");
+				$('#login').text(data.login);
+				$('#company').text(data.company);
+				$('#location').text(data.location);
+				// $('#avatar_url').src(data.avatar_url);
+				document.getElementById("avatar_url").src = data.avatar_url;
+
+				console.log(data.avatar_url);
+			})
+			.fail(function() {
+				console.log("error");
+			})
+			.always(function() {
+				console.log("complete");
+			});
+		});
+	</script>
+</body>
+</html>
